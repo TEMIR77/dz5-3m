@@ -1,0 +1,52 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "title": "MacBook Air 2020",
+      "price": 1200,
+      "memory": 256,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRmSbzzy_N-jCxcxavP251ODFdRVbhdWGCg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air 2020",
+      "price": 1200,
+      "memory": 256,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRmSbzzy_N-jCxcxavP251ODFdRVbhdWGCg&usqp=CAU"
+    },
+    {
+      "title": "MacBook m2",
+      "price": "1400",
+      "memory": "512",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRmSbzzy_N-jCxcxavP251ODFdRVbhdWGCg&usqp=CAU",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "Temir",
+      "surname": "Urmatbekov",
+      "age": 26,
+      "id": 10
+    },
+    {
+      "FirstName": "12",
+      "LastName": "1212",
+      "Age": "12",
+      "id": 11
+    }
+  ]
+}
